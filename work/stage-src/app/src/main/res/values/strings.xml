@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cell Logger Lite</string>
+    <string name="export_file_name">cell_logger_export</string>
+</resources>
